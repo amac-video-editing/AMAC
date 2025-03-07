@@ -1,1 +1,1 @@
-# amac-video-editing.github.io
+# AMAC: Adaptive Multi-frame sAmpling for Consistent zero-shot video editing
