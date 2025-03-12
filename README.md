@@ -11,8 +11,8 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
 <table>
 <tr>
   <td><img src="genrated_videos/DAVIS/a pitbull.gif"></td>
-  <td><img src="genrated_videos/DAVIS/a black cat is running.gif"></td>
   <td><img src="genrated_videos/DAVIS/a dog is moving on a snowy field.gif"></td>
+  <td><img src="genrated_videos/DAVIS/a black cat is running.gif"></td>
 </tr>
 </table>
 You can find more videos in *genrated_videos/* directory.
