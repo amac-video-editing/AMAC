@@ -5,3 +5,11 @@ Ensuring a convincing temporal coherence is one of the main challenges in zero-s
 
 ## AMAC overview
 [![PDF Thumbnail](fig/AMAC-overview.png)](fig/AMAC-overview.pdf)
+
+## AMAC results
+Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
+![Demo](genrated_videos/DAVIS/a pitbull.gif)
+![Demo](genrated_videos/DAVIS/a blackcat is running.gif)
+![Demo](genrated_videos/DAVIS/a dog is moving on a snowy field.gif)
+
+You can find more videos in *genrated_videos/* directory.
