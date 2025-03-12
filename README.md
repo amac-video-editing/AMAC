@@ -8,8 +8,11 @@ Ensuring a convincing temporal coherence is one of the main challenges in zero-s
 
 ## AMAC results
 Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
-[![Demo](genrated_videos/DAVIS/a pitbull.gif)](genrated_videos/DAVIS/a pitbull.mp4)
-[![Demo](genrated_videos/DAVIS/a blackcat is running.gif)](genrated_videos/DAVIS/a blackcat is running.mp4)
-[![Demo](genrated_videos/DAVIS/a dog is moving on a snowy field.gif)](genrated_videos/DAVIS/a dog is moving on a snowy field.mp4)
-
+<table>
+<tr>
+  <td><img src="genrated_videos/DAVIS/a pitbull.gif"></td>
+  <td><img src="genrated_videos/DAVIS/a black cat is running.gif"></td>
+  <td><img src="genrated_videos/DAVIS/a dog is moving on a snowy field.gif"></td>
+</tr>
+</table>
 You can find more videos in *genrated_videos/* directory.
