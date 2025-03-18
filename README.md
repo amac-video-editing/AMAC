@@ -15,4 +15,4 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
   <td><img src="generated_videos/DAVIS/a black cat is running_source-amac.gif"></td>
 </tr>
 </table>
-You can find more videos in _generated_videos/_ directory.
+You can find more videos in *generated_videos/* directory.
