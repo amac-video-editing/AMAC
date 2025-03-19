@@ -7,6 +7,20 @@ Ensuring a convincing temporal coherence is one of the main challenges in zero-s
 [![PDF Thumbnail](fig/AMAC-overview.png)](fig/AMAC-overview.pdf)
 
 ## AMAC results
+The `generated_videos` directory provides a clear comparison of our method against baselines across different datasets. The directory is structured as follows:
+
+- **`generated_videos/DAVIS/`**  
+  - Contains MP4 files where each file displays **the source video** alongside **the edited video produced by our method AMAC**.
+
+- **`generated_videos/BDD100K-UserStudy/`**  
+  - Contains GIF files sourced from our **user study**.  
+  - Each GIF presents **the source video**, followed by **the edited videos from two baseline methods and our method**.  
+  - The **title of each file** specifies the order of the videos inside.
+
+- **`generated_videos/Toy example/`**  
+  - Contains GIF files showcasing **the source video**, **the edited videos from two baselines**, and **our method's result**.  
+  - The **order of the videos** within each GIF is explicitly described in the **file titles**: source video is in the top-left, VidToMe is in the top-right, RAVE is in the bottom-left, and AMAC is in the bottom-right.
+
 Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
 <table>
 <tr>
@@ -15,4 +29,4 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
   <td><img src="generated_videos/DAVIS/a black cat is running_source-amac.gif"></td>
 </tr>
 </table>
-You can find more videos in *generated_videos/* directory.
+You can find more videos in `generated_videos` directory.
