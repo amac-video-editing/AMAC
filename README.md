@@ -28,8 +28,23 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
 
 <table>
 <tr>
-  <td><img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif"></td>
-  <td><img src="generated_videos/DAVIS/a dog is moving on a snowy field_source-AMAC.gif"></td>
-  <td><img src="generated_videos/DAVIS/a black cat is running_source-AMAC.gif"></td>
+  <td>
+    <figure>
+      <img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif">
+      <figcaption>36-frame shape editing</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="generated_videos/DAVIS/a dog is moving on a snowy field_source-AMAC.gif">
+      <figcaption>36-frame style editing</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="generated_videos/DAVIS/a black cat is running_source-AMAC.gif">
+      <figcaption>90-frame shape editing</figcaption>
+    </figure>
+  </td>
 </tr>
 </table>
