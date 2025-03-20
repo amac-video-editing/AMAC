@@ -14,14 +14,14 @@ The `generated_videos` directory provides generated videos of our method AMAC ag
   - Illustrates Section 5.2 **Short term editing** of the paper.
 
 - **`generated_videos/BDD100K-UserStudy/`**  
-  - Contains MP4 files sourced from our **User Study**.  
+  - Contains MP4 files sourced from our **User Study**, with added method name. 
   - Each MP4 presents **the source video**, followed by **the edited videos from two baseline methods and our method**.  
   - The **title of each file** specifies the order of the videos inside.
   - Illustrates Section 5.2 **Dynamic video editing** of the paper.
 
 - **`generated_videos/Toy example/`**  
   - Contains MP4 files showcasing **the source video**, **the edited videos from two baselines**, and **our method's result**.  
-  - The **order of the videos** within each file is explicitly described in the **file titles**: source video is in the top-left, VidToMe is in the top-right, RAVE is in the bottom-left, and AMAC is in the bottom-right.
+  - The **order of the videos** within each file is explicitly described in the **file titles**: source video is at the top, followed by VidToMe, then RAVE, and finally AMAC at the bottom.
   - Illustrates Section 5.3 **Robustness to abrupt changes** of the paper.
 
 Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
