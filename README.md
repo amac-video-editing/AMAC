@@ -24,11 +24,11 @@ The `generated_videos` directory provides generated videos of our method AMAC ag
   - The **order of the videos** within each file is explicitly described in the **file titles**: source video is in the top-left, VidToMe is in the top-right, RAVE is in the bottom-left, and AMAC is in the bottom-right.
   - Illustrates Section 5.3 **Robustness to abrupt changes** of the paper.
 
-Here are shape and style editing on 36-frame and 90-frame DAVIS videos.
+Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
 
 <table>
 <tr>
-  <td><img src="generated_videos/DAVIS/a pitbull_source-amac.gif"></td>
+  <td><img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif"></td>
   <td><img src="generated_videos/DAVIS/a dog is moving on a snowy field_source-amac.gif"></td>
   <td><img src="generated_videos/DAVIS/a black cat is running_source-amac.gif"></td>
 </tr>
