@@ -29,7 +29,7 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
 <table>
 <tr>
   <td><img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif"></td>
-  <td><img src="generated_videos/DAVIS/a dog is moving on a snowy field_source-amac.gif"></td>
+  <td><img src="generated_videos/DAVIS/a dog is moving on a snowy field_source-AMAC.gif"></td>
   <td><img src="generated_videos/DAVIS/a black cat is running_source-amac.gif"></td>
 </tr>
 </table>
