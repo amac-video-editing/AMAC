@@ -37,7 +37,6 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
       <img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif">
       <figcaption>36-frame shape editing</figcaption>
     </figure>
-      ![Description](https://github.com/amac-video-editing/AMAC/raw/main/generated_videos/DAVIS/a%20pitbull_source-AMAC.gif)
   </td>
   <td>
     <figure>
