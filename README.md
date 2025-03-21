@@ -26,6 +26,10 @@ The `generated_videos` directory provides generated videos of our method AMAC ag
 
 Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
 
+| 36-frame shape editing | 36-frame style editing | 90-frame shape editing |
+|-------|-------|-------|
+| ![Description](https://github.com/amac-video-editing/AMAC/raw/main/generated_videos/DAVIS/a%20pitbull_source-AMAC.gif) | ![Description](https://github.com/amac-video-editing/AMAC/raw/main/generated_videos/DAVIS/a%20dog%20is%20moving%20on%20a%20snowy%20field_source-AMAC.gif) | ![Description](https://github.com/amac-video-editing/AMAC/raw/main/generated_videos/DAVIS/a%20black%20cat%20is%20running_source-AMAC.gif)
+
 <table>
 <tr>
   <td>
@@ -33,6 +37,7 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
       <img src="generated_videos/DAVIS/a pitbull_source-AMAC.gif">
       <figcaption>36-frame shape editing</figcaption>
     </figure>
+      ![Description](https://github.com/amac-video-editing/AMAC/raw/main/generated_videos/DAVIS/a%20pitbull_source-AMAC.gif)
   </td>
   <td>
     <figure>
