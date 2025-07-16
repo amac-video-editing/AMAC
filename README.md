@@ -4,7 +4,7 @@
 Achieving convincing temporal coherence is a fundamental challenge in zero-shot text-to-video editing. To address this issue, this paper introduces AMAC (Adaptive Multi-frame sAmpling for Consistent zero-shot text-to-video editing), a novel method that effectively balances temporal consistency with detail preservation. Our approach proposes a theoretical framework with a fully adaptive sampling strategy that selects frames for joint processing using a pre-trained text-to-image diffusion model. By reformulating the sampling strategy as a stochastic permutation over frame indexes and constructing its distribution based on inter-frame similarities, we promote consistent processing of related content. This method demonstrates superior robustness against temporal variations and shot transitions, making it particularly well-suited for editing long dynamic video sequences, as validated through experiments on DAVIS and BDD100K datasets.
 
 ## AMAC overview
-[![PDF Thumbnail](fig/AMAC-overview.png)](fig/AMAC-overview.pdf)
+[![PDF Thumbnail](AMAC-overview.png)](AMAC-overview.pdf)
 
 ## AMAC results
 The `generated_videos` directory provides generated videos of our method AMAC against baselines across different datasets. The directory is structured as follows:
