@@ -32,7 +32,7 @@ Here are shape and style editing on 36-frame and 90-frame DAVIS videos:
   <td>
     <figure>
       <img src="generated_videos/DAVIS/a bear_source-AnimateDiff-AMAC.gif">
-      <figcaption>36-frame shape editing</figcaption>
+      <figcaption>16-frame shape editing</figcaption>
     </figure>
   </td>
   <td>
