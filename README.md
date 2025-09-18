@@ -10,8 +10,8 @@ Achieving convincing temporal coherence is a fundamental challenge in zero-shot 
 The `generated_videos` directory provides generated videos of our method AMAC against baselines across different datasets. The directory is structured as follows:
 
 - **`generated_videos/DAVIS/`**  
-  - Contains GIF files whith **the source video** alongside **the edited video produced by our method AMAC**.
-  - Contains GIF files with **the source video** alongside **the edited videos produced by the T2V baseline AnimateDiff and our method AMAC**.
+  - Contains 16-frames GIF files with **the source video** alongside **the edited videos produced by the T2V baseline AnimateDiff and our method AMAC**.
+  - Contains 36-frames and 90-frames GIF files whith **the source video** alongside **the edited video produced by our method AMAC**.
   - Illustrates Section 5.2 **Short term editing** of the paper.
 
 - **`generated_videos/BDD100K-UserStudy/`**  
