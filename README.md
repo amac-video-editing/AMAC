@@ -20,7 +20,7 @@ The `generated_videos` directory provides generated videos of our method AMAC ag
   - The **title of each file** specifies the order of the videos inside.
   - Illustrates Section 5.2 **Dynamic video editing** of the paper.
 
-- **`generated_videos/Toy example/`**  
+- **`generated_videos/Shot transitions/`**  
   - Contains MP4 files showcasing **the source video**, **the edited videos from two baselines**, and **our method's result**.  
   - The **order of the videos** within each file is explicitly described in the **file titles**: source video is at the top, followed by VidToMe, then RAVE, and finally AMAC at the bottom.
   - Illustrates Section 5.3 **Robustness to abrupt changes** of the paper.
