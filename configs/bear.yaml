@@ -1,0 +1,25 @@
+batch_size: 4
+batch_size_vae: 1
+cond_step_start: 0.0
+controlnet_conditioning_scale: 1.0
+controlnet_guidance_end: 1.0
+controlnet_guidance_start: 0.0
+give_control_inversion: true
+grid_size: 3
+guidance_scale: 7.5
+inversion_prompt: ''
+is_ddim_inversion: true
+is_shuffle: true
+local_merge_ratio: 0.8
+model_id: None
+negative_prompts: ''
+num_inference_steps: 50
+num_inversion_step: 50
+pad: 1
+positive_prompts: Mysterious purple and blue hues dominate, with twinkling stars and a glowing moon in the backdrop
+preprocess_name: depth_zoe
+sample_size: -1
+save_folder: bear
+seed: 0
+shuffling_type: mallowsAdaptive
+video_name: bear

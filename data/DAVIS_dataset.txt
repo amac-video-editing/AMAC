@@ -1,0 +1,170 @@
+DAVIS
+├── 36-frames
+│   ├── bear
+│   │   ├── a leopard
+│   │   ├── a panda
+│   │   ├── Electric neon colors illuminate the scene, casting a futuristic, cyberpunk vibe
+│   │   ├── Mysterious purple and blue hues dominate, with twinkling stars and a glowing moon in the backdrop
+│   │   ├── Soft, blended colors and visible brushstrokes make the scene appear as if painted with watercolors
+│   │   └── The bear becomes a dark silhouette against a fiery sunset, with the horizon painted in oranges, reds, and purples
+│   │
+│   ├── blackswan
+│   │   ├── a flamingo
+│   │   ├── a white duck
+│   │   ├── anime style of a swan
+│   │   ├── crochet swan
+│   │   ├── swarovski blue crystal swan
+│   │   └── Van Gogh Starry Night style
+│   │
+│   ├── bus
+│   │   ├── a submarine
+│   │   ├── a tram
+│   │   ├── A grayscale world, save for the bus which stands out in its original color, creating a contrasting splash
+│   │   ├── A snowy day blanket over the scene, frosted trees, and gently falling snowflakes
+│   │   ├── A transition from day to night, with glowing street lamps, starry skies, and the stillness of the evening
+│   │   └── A world bathed in autumn, with trees in shades of red and orange and fallen leaves scattered on the streets
+│   │
+│   ├── car-turn
+│   │   ├── a black van moving
+│   │   ├── a Porche car is moving
+│   │   ├── a jeep moving at night
+│   │   ├── a red car, moving on the road, autumn, maple leaves
+│   │   ├── a rusty jeep
+│   │   └── Orange SUV in sunny snow winter
+│   │
+│   ├── flamingo
+│   │   ├── an ostrich
+│   │   ├── a seagull
+│   │   ├── An alternate color spectrum, with surreal shades of pink and blue, giving an otherworldly feel
+│   │   ├── An intense, fiery sky with embers floating around, contrasting the cool water and highlighting the flamingos' grace amid nature's fury
+│   │   ├── Mystical surroundings with magical creatures, sparkles on the water, and an aura of enchantment
+│   │   └── The flamingos in deep shadow, set against a radiant sunset with oranges, purples, and pinks
+│   │
+│   ├── gold-fish
+│   │   ├── salmons are swimming
+│   │   ├── sharks are swimming
+│   │   ├── A more playful, animated style with exaggerated fish expressions, surrounded by quirky underwater characters
+│   │   ├── Ancient ruins and pillars in the background, with the fish transformed into more exotic, ancient species
+│   │   ├── Gold coins, old chests, and intricate goblets scattered on the aquarium floor, with the fish guarding their newfound riches
+│   │   └── The entire scene in gradient colors of a rainbow, from red at the top to violet at the bottom, with fish in matching shades
+│   │
+│   ├── hike
+│   │   ├── a hiker carrying a Jet propulsion system attached on his back
+│   │   ├── a teddy bear is walking
+│   │   ├── A hiker against a fiery sunset
+│   │   ├── A hiker journeying through winter snow
+│   │   ├── Hiker on a pathway of golden leaves in autumn
+│   │   └── Surreal floating islands with trails connecting them
+│   │
+│   ├── lab-coat
+│   │   ├── Three cowgirls standing on a farm
+│   │   ├── Wonder Women on a Halloween party
+│   │   ├── Three girls standing on a beach at sunset
+│   │   ├── Three girls stand on a field full of flowers
+│   │   ├── Three girls wearing black coats
+│   │   └── Three girls wearing glittery dresses
+│   │
+│   ├── libby
+│   │   ├── a cheetah is moving
+│   │   ├── a white cat is moving
+│   │   ├── a dog is moving on a field with autumn leaves
+│   │   ├── a dog is moving on a field with neon lights at night
+│   │   ├── a dog is moving on a snowy field
+│   │   └── a husky dog with white fur is moving
+│   │
+│   ├── mallard-water
+│   │   ├── a dog is swimming
+│   │   ├── a duck is swimming
+│   │   ├── a crystal blue mallard is swarovski gems is swimming
+│   │   ├── a mallard swimming in van gogh style
+│   │   ├── a mallard swimming in watercolor style
+│   │   └── a white mallard is swimming
+│   │
+│   ├── motocross-jump
+│   │   ├── a man is riding a bicycle
+│   │   ├── wonder woman is riding a motorbike
+│   │   ├── a man in black clothes riding a motorbike
+│   │   ├── a man is riding a motorbike in autumn, with red and yellow leaves
+│   │   ├── a man is riding a motorbike on a snowy day
+│   │   └── a robot is riding a motorbike
+│   │
+│   ├── motorbike
+│   │   ├── a man is riding a bicycle
+│   │   ├── batman is riding a motorbike
+│   │   ├── a motorbike in watercolor style
+│   │   ├── a motorbike is riding at night
+│   │   ├── a motorbike is riding in autumn with maple leaves
+│   │   └── a motorbike is riding on a snowy day
+│   │
+│   ├── pigs
+│   │   ├── a leopard
+│   │   ├── a wolf
+│   │   ├── A dense fog covering the ground, with the pigs appearing out of it as if from a mysterious realm
+│   │   ├── Lush green foliage, exotic birds flying around, and the pigs appearing more adventurous, with explorer hats
+│   │   ├── Snow-covered ground, frost in the air, and the pigs bundled up in tiny woolen scarves and hats
+│   │   └── The pigs dressed as knights with tiny armor pieces, preparing for a whimsical battle
+│   │
+│   ├── train
+│   │   ├── a white cupcake moving on table
+│   │   ├── wooden stools moving on table
+│   │   ├── a toy box train moving on railtracks
+│   │   ├── A train moving in autumn
+│   │   ├── A train moving in nighttime, with glowing lampposts
+│   │   └── A train moving on railtracks in winter
+│   │
+│   └── wolf
+│       ├── a bear
+│       ├── a pitbull
+│       ├── a colorful polygonal illustration of a wolf
+│       ├── a photo of a fluffy wolf doll
+│       ├── a shiny silver robotic wolf, futuristic
+│       └── a swarovski blue crystal wolf
+│
+└── 90-frames
+    ├── blackdog
+    │   ├── a black cat is running
+    │   ├── a horse is running
+    │   ├── a crochet dog
+    │   ├── a dog running on a green grassland with flowers
+    │   ├── a labrador dog
+    │   └── a pitbull
+    │
+    ├── dog_car
+    │   ├── a cheeta looking out the car window
+    │   ├── A white cat is looking through the window
+    │   ├── a bulldog is looking through the window
+    │   ├── a dog is looking through the window in a snowy day
+    │   ├── A pink dog is looking through the window
+    │   └── a watercolor style of a dog is looking through the window
+    │
+    ├── eagle_face
+    │   ├── an owl
+    │   ├── a seagull
+    │   ├── a blue bird is flying
+    │   ├── a bronze eagle sculpture
+    │   ├── an origami of an eagle, pink paper art
+    │   └── a red bird is flying
+    │
+    ├── stork
+    │   ├── a duck
+    │   ├── A flamingo is in the lake
+    │   ├── a crochet stork
+    │   ├── an origami of a stork
+    │   ├── swarovski blue crystal stork
+    │   └── Van Gogh Starry Night style
+    │
+    ├── tesla
+    │   ├── a batmobile
+    │   ├── a porsche
+    │   ├── an ice sculpture of a car
+    │   ├── a pink car in a snowy landscape, sunset lighting
+    │   ├── a rusty car
+    │   └── a sand sculpture of a car on the beach
+    │
+    └── woman_running
+        ├── A zombie is running
+        ├── Elsa is running
+        ├── a marble scuplture of a woman running
+        ├── a pixar animation of a woman running
+        ├── a senior lady is running
+        └── a woman is running at night

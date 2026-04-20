@@ -1,0 +1,41 @@
+BDD100K
+└── train_10
+    ├── 1a71faae-d5f255fd.mov (369 frames)
+    │   ├── From a car driving by night
+    │   ├── From a car driving on a snowy road
+    │   ├── From a car driving in the rain
+    │   ├── From a car driving on a cloudy road
+    │   ├── Spring
+    │   ├── Summer
+    │   ├── Autumn
+    │   └── Winter
+    │
+    ├── 19d76936-28230166.mov (378 frames)
+    │   ├── From a car driving by night
+    │   ├── From a car driving on a snowy road
+    │   ├── From a car driving in the rain
+    │   ├── From a car driving on a cloudy road
+    │   ├── Spring
+    │   ├── Summer
+    │   ├── Autumn
+    │   └── Winter
+    │
+    ├── 19d76936-92beaa8c.mov (351 frames)
+    │   ├── From a car driving by night
+    │   ├── From a car driving on a snowy road
+    │   ├── From a car driving in the rain
+    │   ├── From a car driving on a cloudy road
+    │   ├── Spring
+    │   ├── Summer
+    │   ├── Autumn
+    │   └── Winter
+    │
+    └── 19d76936-5534076d.mov (342 frames)
+        ├── From a car driving by night
+        ├── From a car driving on a snowy road
+        ├── From a car driving in the rain
+        ├── From a car driving on a cloudy road
+        ├── Spring
+        ├── Summer
+        ├── Autumn
+        └── Winter
