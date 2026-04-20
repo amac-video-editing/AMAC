@@ -1,0 +1,7 @@
+evaluation_results/
+generated/
+pretrained_models/
+results/
+*.pt
+*.pth
+*.ckpt
