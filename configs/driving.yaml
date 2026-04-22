@@ -19,7 +19,7 @@ pad: 1
 positive_prompts: Driving on a snowy road
 preprocess_name: depth_zoe
 sample_size: -1
-save_folder: clear
+save_folder: driving
 seed: 0
 shuffling_type: mallowsAdaptive
-video_name: clear
+video_name: driving
