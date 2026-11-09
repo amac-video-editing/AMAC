@@ -83,3 +83,14 @@ Here are shape and style editing on 16-frame, 36-frame and 90-frame DAVIS videos
   </td>
 </tr>
 </table>
+
+## Citation 
+
+```
+@article{des2026adaptive,
+  title={Adaptive multi-frame sampling for consistent zero-shot text-to-video editing},
+  author={Tisseau des Escotais, Th{\'e}r{\`e}se and Rambour, Cl{\'e}ment and Leroy, Bertrand and Breloy, Arnaud},
+  journal={Transactions on Machine Learning Research},
+  year={2026}
+}
+```
